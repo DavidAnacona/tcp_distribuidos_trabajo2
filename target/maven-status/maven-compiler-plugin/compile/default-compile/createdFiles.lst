@@ -1,0 +1,5 @@
+cliente\ClientGUI.class
+servidor\Server.class
+servidor\ClientHandler.class
+cliente\ClientGUI$ReaderHandler.class
+com\mycompany\tcp_uno_varios_clientes\Tcp_uno_varios_clientes.class
